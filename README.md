@@ -1,6 +1,6 @@
 # About this repository
 
-This repository contains samples of work from my time as a contractor at Google, where I was the first technical writer hired by Learning Experience Lab (LXL), a then-new team that sought to drive adoption of Google's developer technology through educational documentation. 
+This repository contains samples of work from my time at Google, where I was hired as a contracted technical writer for Learning Experience Lab (LXL), a then-new team that sought to drive adoption of Google's developer technology through educational documentation. 
 
 Rather than embed with any particular product area (PA), LXL functioned like an internal agency that worked across all of Google's developer PAs, including Android, Google Chrome, Google Maps Platform, and Google Pay. 
 
