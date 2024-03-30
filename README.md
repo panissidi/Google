@@ -8,4 +8,4 @@ As a result, this role required me to drop into different PAs, quickly establish
 
 For samples of my writing, see the `writing_samples.md` file. 
 
-For samples of my editing, see the `editing.md` file.
+For samples of my editing, see the `editing_samples.md` file.
