@@ -6,4 +6,4 @@ Rather than embed with any particular product area (PA), LXL functioned like an 
 
 As a result, this role required me to drop into different PAs, quickly establish relationships with stakeholders and learn their technologies, and then write or edit the requested documentation.
 
-For samples of my writing, see the 'writing_samples.md' file. For samples of my editing, see the 'editing.md' file.
+For samples of my writing, see the `writing_samples.md` file. For samples of my editing, see the `editing.md` file.
