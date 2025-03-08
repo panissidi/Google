@@ -1,4 +1,4 @@
-# Task-based tutorials
+# How-to guides
 
 * [Enhance stylus support in an Android app](https://developer.android.com/codelabs/large-screens/advanced-stylus-support)
 * [Implement passkeys with form autofill in a web app](https://developers.google.com/codelabs/passkey-form-autofill)
